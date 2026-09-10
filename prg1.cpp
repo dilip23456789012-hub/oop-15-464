@@ -23,7 +23,7 @@ int c = 10;
 
 cout << "Before Call by Value: " << a << endl;
 value(a);
-cout << "After Call by Value: " << a << endl << endl;
+cout << "After Call by Value: " << a << endl ;
 
 cout << "Before Call by Reference: " << b << endl;
 reference(b);
